@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 
 /**
  * puts_half - returns second half of a string followed by new line

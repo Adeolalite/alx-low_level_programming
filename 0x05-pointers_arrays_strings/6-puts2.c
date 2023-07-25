@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 
 /**
  * puts2 - returns every other two letters and a new line
