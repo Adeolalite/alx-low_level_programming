@@ -1,4 +1,4 @@
-lude <stdio.h>
+#include <stdio.h>
 
 /**
  * main - Lowercase Alphabet
